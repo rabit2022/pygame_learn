@@ -1,0 +1,10 @@
+row,description,start frame,end frame
+0,north,0,7
+1,--,8,15
+2,east,16,23
+3,--,24,31
+4,south,32,39
+5,--,40,47
+6,west,48,55
+7,--,56,63
+
